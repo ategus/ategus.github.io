@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ategus blog</title>
-    <link>http://ategus.github.io/</link>
-    <description>Recent content on ategus blog</description>
+    <title>updates on ategus blog</title>
+    <link>http://ategus.github.io/tags/updates/</link>
+    <description>Recent content in updates on ategus blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 17:19:34 +0100</lastBuildDate><atom:link href="http://ategus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 17:19:34 +0100</lastBuildDate><atom:link href="http://ategus.github.io/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>part II</title>
       <link>http://ategus.github.io/posts/blog_23_03_03/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://ategus.github.io/posts/blog_23_03_03/</guid>
       <description>after successfully running hugon on github pages, try to go to the next step</description>
-    </item>
-    
-    <item>
-      <title>here we go</title>
-      <link>http://ategus.github.io/posts/mypost/</link>
-      <pubDate>Wed, 01 Mar 2023 08:56:53 +0100</pubDate>
-      
-      <guid>http://ategus.github.io/posts/mypost/</guid>
-      <description>lets go party </description>
     </item>
     
   </channel>

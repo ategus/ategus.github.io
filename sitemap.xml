@@ -3,16 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ategus.github.io/</loc>
-    <lastmod>2023-03-01T08:56:53+01:00</lastmod>
+    <lastmod>2023-03-03T17:19:34+01:00</lastmod>
+  </url><url>
+    <loc>http://ategus.github.io/tags/hugo/</loc>
+    <lastmod>2023-03-03T17:19:34+01:00</lastmod>
+  </url><url>
+    <loc>http://ategus.github.io/posts/blog_23_03_03/</loc>
+    <lastmod>2023-03-03T17:19:34+01:00</lastmod>
+  </url><url>
+    <loc>http://ategus.github.io/posts/</loc>
+    <lastmod>2023-03-03T17:19:34+01:00</lastmod>
+  </url><url>
+    <loc>http://ategus.github.io/tags/</loc>
+    <lastmod>2023-03-03T17:19:34+01:00</lastmod>
+  </url><url>
+    <loc>http://ategus.github.io/tags/updates/</loc>
+    <lastmod>2023-03-03T17:19:34+01:00</lastmod>
   </url><url>
     <loc>http://ategus.github.io/posts/mypost/</loc>
     <lastmod>2023-03-01T08:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://ategus.github.io/posts/</loc>
-    <lastmod>2023-03-01T08:56:53+01:00</lastmod>
-  </url><url>
     <loc>http://ategus.github.io/categories/</loc>
-  </url><url>
-    <loc>http://ategus.github.io/tags/</loc>
   </url>
 </urlset>

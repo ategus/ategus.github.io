@@ -6,7 +6,16 @@
     <description>Recent content in Posts on ategus blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 08:56:53 +0100</lastBuildDate><atom:link href="http://ategus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 17:19:34 +0100</lastBuildDate><atom:link href="http://ategus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>part II</title>
+      <link>http://ategus.github.io/posts/blog_23_03_03/</link>
+      <pubDate>Fri, 03 Mar 2023 17:19:34 +0100</pubDate>
+      
+      <guid>http://ategus.github.io/posts/blog_23_03_03/</guid>
+      <description>after successfully running hugon on github pages, try to go to the next step</description>
+    </item>
+    
     <item>
       <title>here we go</title>
       <link>http://ategus.github.io/posts/mypost/</link>

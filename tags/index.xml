@@ -5,6 +5,25 @@
     <link>http://ategus.github.io/tags/</link>
     <description>Recent content in Tags on ategus blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://ategus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Mar 2023 17:19:34 +0100</lastBuildDate><atom:link href="http://ategus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>http://ategus.github.io/tags/hugo/</link>
+      <pubDate>Fri, 03 Mar 2023 17:19:34 +0100</pubDate>
+      
+      <guid>http://ategus.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>http://ategus.github.io/tags/updates/</link>
+      <pubDate>Fri, 03 Mar 2023 17:19:34 +0100</pubDate>
+      
+      <guid>http://ategus.github.io/tags/updates/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
